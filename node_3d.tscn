@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://0m5u2ifp8h44"]
+
+[ext_resource type="PackedScene" uid="uid://chw4j60nueeuh" path="res://terrain.blend" id="1_a202f"]
+
+[node name="Node3D" type="Node3D" unique_id=940007624]
+
+[node name="terrain" parent="." unique_id=429013108 instance=ExtResource("1_a202f")]
